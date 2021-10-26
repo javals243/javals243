@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valere chihisa</h1>
 <h3 align="center">A passionate front-end and back-end developer from D.R.Congo</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chihisa-valere-360544182" alt="chihisa-valere-360544182" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javals243" alt="chihisa-valere-360544182" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, react, nodejs expressJs**
 
