@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Valere chihisa</h1>
-<h3 align="center">A passionate front-end and back-end developer from D.R.Congo</h3>
+<h3 align="center">A passionate back-end developer from D.R.Congo</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javals243" alt="javals243" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, react, nodejs expressJs**
+- 🌱 I’m currently learning **Typescript , python**
 
-- 💬 Ask me about **react and nodejs**
+- 💬 Ask me about **react,expressJs and nodejs**
+
+- 📫 How to reach me **vchihisa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javals243&show_icons=true&locale=en&layout=compact" alt="javals243" /></p>
 
-<p><img align="rwite" src="https://github-readme-streak-stats.herokuapp.com/?user=javals243&" alt="javals243" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javals243&show_icons=true&locale=en" alt="javals243" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javals243&" alt="javals243" /></p>
