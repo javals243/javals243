@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valere chihisa</h1>
 <h3 align="center">A passionate back-end developer from D.R.Congo</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javals243&margin-w=15&margin-h=15" alt="javals243" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javals243&margin-w=15&margin-h=15&theme=dracula" alt="javals243" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript , python**
 
