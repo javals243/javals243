@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valere chihisa</h1>
-<h3 align="center">A passionate back-end developer from D.R.Congo</h3>
+<h3 align="center">I am a full-stack engineer who creates simple websites with complex functionality</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javals243&margin-w=15&margin-h=15&theme=dracula" alt="javals243" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript , python**
+- 🌱 I’m currently learning **Flutter , Nestjs**
 
 - 💬 Ask me about **react,expressJs and nodejs**
 
