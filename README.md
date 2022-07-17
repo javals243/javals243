@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javals243&margin-w=15&margin-h=15&theme=dracula" alt="javals243" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter , Nestjs**
+- 🌱 I’m currently learning **React native , Nestjs**
 
 - 💬 Ask me about **react,expressJs and nodejs**
 
